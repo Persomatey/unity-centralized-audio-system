@@ -1,4 +1,4 @@
-# Unity Audio Singleton System
+# Unity Centralized Audio System
 
 
 Check out [Releases](https://github.com/Persomatey/unity-bootstrap-loading-system/releases) tab to see a history of all versions of this package. 
