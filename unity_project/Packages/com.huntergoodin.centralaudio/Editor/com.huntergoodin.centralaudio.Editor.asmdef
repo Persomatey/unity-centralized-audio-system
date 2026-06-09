@@ -1,10 +1,12 @@
 {
-	"name": "com.yourcompany.packagename.Runtime",
-	"rootNamespace": "YourCompany.PackageName",
+	"name": "com.huntergoodin.centralaudio.Editor",
+	"rootNamespace": "HunterGoodin.CentralAudio",
 	"references": [
-	 	"Unity.TextMeshPro"
+		"com.huntergoodin.centralaudio.Runtime"
 	],
-	"includePlatforms": [],
+	"includePlatforms": [
+		"Editor"
+	],
 	"excludePlatforms": [],
 	"allowUnsafeCode": false,
 	"overrideReferences": false,

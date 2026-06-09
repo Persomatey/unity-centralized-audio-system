@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace YourCompany.PackageName
+namespace HunterGoodin.CentralAudio
 {
 	public class MyAmazingScript : MonoBehaviour
 	{
