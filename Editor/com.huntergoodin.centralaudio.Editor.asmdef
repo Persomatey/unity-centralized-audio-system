@@ -1,0 +1,18 @@
+{
+	"name": "com.huntergoodin.centralaudio.Editor",
+	"rootNamespace": "HunterGoodin.CentralAudio",
+	"references": [
+		"com.huntergoodin.centralaudio.Runtime"
+	],
+	"includePlatforms": [
+		"Editor"
+	],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}

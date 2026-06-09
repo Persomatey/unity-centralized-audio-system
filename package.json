@@ -1,0 +1,25 @@
+{
+  "name": "com.huntergoodin.centralaudio",
+  "version": "0.0.4",
+  "displayName": "Centralized Audio System",
+  "description": "A single persistant audio singleton with all channels already set up.",
+  "documentationUrl": "https://github.com/Persomatey/unity-centralized-audio-system/blob/main/README.md",
+  "changelogUrl": "https://github.com/Persomatey/unity-centralized-audio-system/releases",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/Persomatey/unity-centralized-audio-system/blob/main/LICENSE.md",
+  "unity": "6000.0",
+  "author": {
+    "name": "Hunter Goodin",
+    "url": "https://github.com/Persomatey"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "samples": [
+    {
+      "displayName": "Example Scene",
+      "description": "A sample scene demonstrating the package features.",
+      "path": "Samples~/ExampleScene"
+    }
+  ]
+}
